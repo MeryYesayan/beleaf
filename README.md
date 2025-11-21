@@ -25,14 +25,11 @@ A simple e-commerce platform for natural care products.
    - Open phpMyAdmin
    - Create a new database named beleaf
    - import sql/beleaf.sql
+3. Setup locally:
+   - Place the project in htdocs (XAMPP)
+   - Start Apache & MySQL
+   - Visit: http://localhost/beleaf
       
-
-3. Setup locally:                                                                                                                                                                                                     
-  . Place the project in htdocs (XAMPP)
-   
-  . Start Apache & MySQL
-  
-  . Visit: http://localhost/beleaf
   
 💻 Technologies Used- PHP (OOP)
 
