@@ -37,16 +37,11 @@ A simple e-commerce platform for natural care products.
 - AJAX for real-time updates
 - Git for version control
 
-   
-👩‍💻 Author
+ ## 👩‍💻 Author
+ Mery Yesayan
+ Passionate about backend development and user interaction.
+ 📧 Email: [ yesayan.meri@inbox.ru ]
+ 🔗 LinkedIn: [ https://www.linkedin.com/in/meri-yesayan-65b959376/ ]
 
-Mery Yesayan
 
-Passionate about backend development and user interaction.
-
-📧 Email: [ yesayan.meri@inbox.ru ]
-
-🔗 LinkedIn: [ https://www.linkedin.com/in/meri-yesayan-65b959376/ ]
-
-  
    
