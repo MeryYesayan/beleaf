@@ -30,13 +30,13 @@ A simple e-commerce platform for natural care products.
    - Start Apache & MySQL
    - Visit: http://localhost/beleaf
       
-  
-💻 Technologies Used- PHP (OOP)
+ ## 💻 Technologies Used
 
-  . MySQL
-  . HTML/CSS/JavaScript
-  . AJAX for real-time updates
-  . Git for version control
+- PHP (OOP)
+- HTML/CSS/JavaScript
+- AJAX for real-time updates
+- Git for version control
+
    
 👩‍💻 Author
 
