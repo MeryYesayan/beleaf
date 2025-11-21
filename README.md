@@ -34,6 +34,7 @@ A simple e-commerce platform for natural care products.
   . HTML/CSS/JavaScript
   . AJAX for real-time updates
   . Git for version control
+   
 👩‍💻 Author
 Mery Yesayan
 Passionate about backend development and user interaction.
