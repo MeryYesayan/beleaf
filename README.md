@@ -22,11 +22,11 @@ A simple e-commerce platform for natural care products.
    ```bash
    git clone https://github.com/MeryYesayan/beleaf.git
 2. Import the database:
+   - Open phpMyAdmin
+   - Create a new database named beleaf
+   - import sql/beleaf.sql
       
-2. - Import the database:
-  . Open phpMyAdmin
-  . Create a new database named beleaf
-  . Import sql/beleaf.sql
+
 3. Setup locally:                                                                                                                                                                                                     
   . Place the project in htdocs (XAMPP)
    
