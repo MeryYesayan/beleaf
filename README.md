@@ -21,6 +21,8 @@ A simple e-commerce platform for natural care products.
 1. Clone the repository:
    ```bash
    git clone https://github.com/MeryYesayan/beleaf.git
+2. Import the database:
+      
 2. - Import the database:
   . Open phpMyAdmin
   . Create a new database named beleaf
